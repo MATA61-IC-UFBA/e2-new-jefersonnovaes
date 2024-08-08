@@ -1,0 +1,8 @@
+constante decimal: 90
+código do token: 4
+constante decimal: 100
+código do token: 5
+constante decimal: 18
+código do token: 3
+constante decimal: 48
+código do token: 2
